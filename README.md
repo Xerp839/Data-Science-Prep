@@ -1,4 +1,4 @@
-# Data Scientist Interview Prep — Veracitiz Walk-In (Thu, 19 Nov 2026)
+# Data Scientist Interview Prep —
 
 > 4 days. One goal: walk in on Thursday and answer confidently on ML basics, SQL, RAG, agents, Flask and your own work.
 
